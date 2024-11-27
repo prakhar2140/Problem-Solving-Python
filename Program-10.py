@@ -9,12 +9,7 @@ for row in range(Row):
         a.append(int(input()))
     matrix.append(a)
 
-# print("Given matrix")    
 
-# for row in range(Row):
-#     for column in range(col):
-#         print(matrix[row][column],end="  ")
-#     print()   
 
 for row in range(Row):
     for column in range(col):
